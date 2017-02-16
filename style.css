@@ -1,0 +1,47 @@
+header {
+  background-color: rgb(30, 200, 200)
+  border-radius: 1em 1em 0em 0em;
+}
+
+
+
+
+section{
+    border: 1px solid black;
+    width: 30%;
+    float: left;
+    box-sizing: border-box;
+    margin: 2em;
+    display: inline;
+}
+
+.Strasburg {
+  float: left;
+  width: 30%;
+  padding: 1em;
+  border-radius: 2em;
+}
+
+h2{
+  text-align: left;
+  font-size: 1em;
+  padding: 1em;
+}
+aside{
+border-top: 1px solid black;
+}
+
+p{
+  font-size: .8em;
+  text-shadow: .8px;
+  font-weight: lighter;
+  text-align: left;
+}
+
+.radio-right {
+  text-align: right;
+}
+
+main {
+padding-left: 15%;
+}
